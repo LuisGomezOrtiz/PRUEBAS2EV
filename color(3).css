@@ -1,0 +1,23 @@
+/* Creado por Luis Gómez Ortiz 29/11/2018 */
+@charset "utf8";
+
+
+body {
+
+    background-color: yellowgreen;
+    color: yellowgreen
+}
+
+p {
+
+    background-color: grey;
+    border-top: blue 3px solid;
+    border-bottom: blue 3px solid;
+    
+    
+    
+    
+    }
+    h2{
+        color: black;
+    }
