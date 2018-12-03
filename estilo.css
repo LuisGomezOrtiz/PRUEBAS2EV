@@ -1,0 +1,32 @@
+
+
+@charset "utf8";
+
+header {
+
+color: blue;
+
+}
+
+body {
+
+    background-color: yellow;
+
+}
+
+p {
+
+    border-top: blue 3px solid;
+    border-bottom: blue 3px solid;
+    background-color: aquamarine;
+    color: black;
+
+}
+p#rojo {
+
+    border-top: red 3px solid;
+    border-bottom: red 3px solid;
+    background-color: red;
+    color: black;
+
+}
