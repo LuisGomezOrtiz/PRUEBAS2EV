@@ -1,0 +1,48 @@
+/*Creado por Luis Gómez Ortiz el 17/12/2018*/
+@charset "utf-8";
+
+h1 { 
+
+    color: black;
+    text-transform: capitalize;
+
+
+}
+
+body {
+    background-color: hsl(145, 50%, 35%);
+   
+  }
+  
+p.niño {
+
+   color: white;
+   font-style: oblique;
+   font-family: serif;
+
+}
+
+p.fauna {
+
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+
+
+}
+
+p.numeros {
+
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+
+
+}
+
+p.escritor {
+
+    color: hsl(35, 100%, 55%);
+    font-size: 200%;
+    font-family: monospace;
+
+
+}
