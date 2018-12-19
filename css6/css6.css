@@ -1,0 +1,27 @@
+/*Creado por Luis Gómez Ortiz el 17/12/2018*/
+@charset "utf-8";
+
+
+header {
+
+    color: darkblue;
+	text-shadow: 0.2em 0.15em 0.20em darkblue;
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+}
+
+h3 {
+
+    font-family: fantasy;
+    text-indent: 1.5cm;
+    font-weight: 200;
+    
+}
+
+p {
+
+    text-align: center;
+    word-spacing: 1cm;
+    text-decoration: underline;
+}
