@@ -1,0 +1,76 @@
+/*Creado por Luis Gómez Ortiz el 17/12/2018*/
+@charset "utf-8";
+
+body {
+
+    background-color: #267352;
+    font-family: sans-serif;
+    font-size: 1.50rem;
+  
+  }
+
+  
+
+h1 {
+
+    color: white;
+    text-align: left;
+    text-transform: uppercase;
+    text-shadow: black 5px 5px;
+  }
+
+
+p {
+
+    text-align: justify;
+
+  }
+
+
+
+p.parrafo1 {
+
+    background-color: white;
+    border: black 12px solid;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 25px;
+   
+  }
+
+p.parrafo25 {
+
+    color: white;
+    background-color: #ac5a39;
+    border: #802400 20px solid;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin-right: 50%;
+    padding: 10px;
+    
+  }
+
+p.parrafo36 {
+
+    color: white;
+    background-color: #ac7a39;
+    border: #804800 15px solid;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: 50%;
+    padding: 5px;
+    
+   
+  }
+  
+p.parrafo57 {
+
+    color: white;
+    background-color: #004680;
+    border: #3978ac 5px dashed;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 20px;
+      
+  }
