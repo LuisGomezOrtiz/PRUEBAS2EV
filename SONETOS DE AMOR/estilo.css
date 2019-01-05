@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+/* CREADO POR LUIS GÓMEZ EN ÉPOCA NAVIDEÑA*/
+
+body {
+  background: url("corazon-1.svg") repeat-y top left, url("corazon-2.svg") repeat-y top right;
+  background-color: #FFEBF0;
+  background-size: 150px;
+  font-family: sans-serif;
+  font-size: 1.20rem;
+  text-align: center;
+}
+
+h1 {
+  font-size: 1.5rem;
+  text-transform: uppercase;
+}
+
+div {
+  border: black 2px solid;
+  margin: 10px 150px;
+  font-weight: bold;
+}
+
+div.primero {
+  color: white;
+  background: url("manchas.png");
+  
+}
+
+div.segundo {
+  color: #FFDD00;  
+  background: url("fuego.svg") no-repeat bottom right, url("fuego.svg") no-repeat bottom left, url("tallos.jpg");
+  
+}
+
+div.tercero {
+  color: #800000;
+  background:  url("ojo.svg") no-repeat center, url("hexagonos.jpg");
+  background-size: contain, auto;
+  
+}
+
+div.cuarto {
+    
+  color: #004D06;
+  padding-bottom: 50px;
+  background: url("caballo.svg") repeat-x bottom, url("estrellas.png") repeat;
+  background-size: 100px, auto;
+}
