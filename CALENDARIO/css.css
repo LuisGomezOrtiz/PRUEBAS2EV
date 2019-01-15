@@ -1,0 +1,94 @@
+
+/* Creado por Luis Gómez Ortiz el 18/01/2019   */
+
+
+@charset "utf-8";
+
+
+
+body {
+  background-color: lightblue;
+  font-family: sans-serif;
+}
+
+div {
+  background-color: lightyellow;
+  border: black 1px solid;
+  padding: 10px 30px;
+  margin: 10px;
+  width: 50%;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.Enero table {
+  border-collapse: collapse;
+  border: none;
+  text-align: center;
+}
+
+div.Enero caption {
+  font-style: oblique;
+  font-weight: bold;
+  letter-spacing: 5px;
+}
+
+div.Enero td {
+  width: 3em;
+  border-left: none;
+  border-right: none;
+}
+
+div.Enero th {
+  width: 3em;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+}
+
+div.Febrero table {
+  border: none;
+  border-collapse: collapse;
+  text-align: right;
+}
+div.Febrero caption {
+  font-weight: bold;
+  text-align: right;
+}
+div.Febrero th {
+  border-top: none;
+  border-bottom: none;
+  padding-right: 5px;
+}
+div.Febrero td {
+  border-top: none;
+  border-bottom: none;
+  font-size: 150%;
+  padding-right: 5px;
+  width: 1.5em;
+}
+
+div.Marzo table {
+  border: black 1px solid;
+  border-collapse: collapse;
+  text-align: left;
+}
+div.Marzo caption {
+  font-variant: small-caps;
+  letter-spacing: 10px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+div.Marzo th {
+  text-align: center;
+}
+div.Marzo td {
+  width: 4em;
+  height: 4em;
+  padding-left: 5px;
+  font-size: 70%;
+  vertical-align: top;
+}
